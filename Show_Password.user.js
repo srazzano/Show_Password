@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Show Password onHover/onFocus
+// @name        Show Password
 // @version     1.0.0
 // @description Show password when hover/focus on password field
 // @author      Sonny Razzano aka srazzano
