@@ -6,6 +6,7 @@
 // @namespace   srazzano
 // @include     *
 // @icon        https://raw.githubusercontent.com/srazzano/Images/master/password2.png
+// @homepageURL https://github.com/srazzano/Show_Password/blob/master/Show_Password.user.js
 // @download    https://raw.githubusercontent.com/srazzano/Show_Password/master/Show_Password.user.js
 // @support     srazzano@gmail.com
 // @grant       none
