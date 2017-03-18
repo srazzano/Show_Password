@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name        Show Password onHover/onFocus
+// @version     1.0.0
+// @description Show password when hover/focus on password field
+// @author      Sonny Razzano aka srazzano
 // @namespace   srazzano
 // @include     *
-// @description	Show password when hover/focus on password field
-// @author      Sonny Razzano
-// @version     1.0.0
 // @icon        https://raw.githubusercontent.com/srazzano/Images/master/password2.png
 // @download    https://raw.githubusercontent.com/srazzano/Show_Password/master/Show_Password.user.js
 // @support     srazzano@gmail.com
