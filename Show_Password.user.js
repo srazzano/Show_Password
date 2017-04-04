@@ -5,7 +5,7 @@
 // @author      Sonny Razzano aka srazzano
 // @namespace   srazzano
 // @include     *
-// @icon        https://raw.githubusercontent.com/srazzano/Images/master/password2.png
+// @icon        https://raw.githubusercontent.com/srazzano/Images/master/password3.png
 // @homepageURL https://github.com/srazzano/Show_Password
 // @downloadURL https://raw.githubusercontent.com/srazzano/Show_Password/master/Show_Password.user.js
 // @updateURL   https://raw.githubusercontent.com/srazzano/Show_Password/master/Show_Password.user.js
