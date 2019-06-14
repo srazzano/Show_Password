@@ -6,7 +6,7 @@
 // @namespace   srazzano
 // @include     *
 // @icon        https://raw.githubusercontent.com/srazzano/Images/master/password3.png
-// @homepageURL https://github.com/srazzano/Show_Password
+// @homepageURL https://sonco.synthasite.com/greasemonkey-sripts-%E2%96%BA.php
 // @downloadURL https://raw.githubusercontent.com/srazzano/Show_Password/master/Show_Password.user.js
 // @updateURL   https://raw.githubusercontent.com/srazzano/Show_Password/master/Show_Password.user.js
 // @support     srazzano@gmail.com
