@@ -10,7 +10,7 @@
 // @downloadURL https://raw.githubusercontent.com/srazzano/Show_Password/master/Show_Password.user.js
 // @updateURL   https://raw.githubusercontent.com/srazzano/Show_Password/master/Show_Password.user.js
 // @support     srazzano@gmail.com
-// @grant       none
+// @grant       GM_addStyle
 // ==/UserScript==
 
 /* jshint multistr:true */
@@ -33,5 +33,7 @@
         passFields[i].addEventListener("blur", function() {this.type = "password";}, false);
     } }
   }, 1000);
+
+  GM_addStyle("outline: none !important;}");
 
 })();
