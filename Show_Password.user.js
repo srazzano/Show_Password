@@ -34,6 +34,6 @@
     } }
   }, 1000);
 
-  GM_addStyle("outline: none !important;}");
+  GM_addStyle("* {outline: none !important;}");
 
 })();
